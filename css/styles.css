@@ -1,0 +1,154 @@
+body{
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+h1{
+  margin: 60px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+hr{
+  border: dotted #e4f9f5 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.project-details{
+
+  background-color: #e3f6f5;
+  width:80%;
+  margin: 0 auto 0 auto;
+}
+.top-container{
+  background-color: #e3f6f5;
+  position: relative;
+  padding-top: 10px;
+}
+.middle-container1{
+  position: relative;
+  padding-top: 70px;
+}
+.middle-container2{
+  position: relative;
+}
+.bottom-container{
+  position: relative;
+}
+
+.footer{
+  background-color: #66bfbf;
+  padding-top : 20px;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.skill{
+  line-height: 2;
+  width: 60%;
+  margin:20px auto 100px auto;
+}
+.skill-row1{
+  width:50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.skill-row2{
+  width:50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.skill-row3{
+  width:50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.skill-row4{
+  width: 50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+}
+.skills-img{
+  width:30%;
+  float:left;
+  margin-right: 50px;
+}
+.experience-img{
+  width:30%;
+  float:right;
+}
+.experience2-img{
+  width:35%;
+  float:left;
+  margin-right: 50px;
+}
+.about-me{
+  text-align: center;
+}
+.myButton {
+	box-shadow:inset 0 1px 0 0 #54a3f7;
+	background:linear-gradient(to bottom, #66bfbf, #11999e);
+	background-color:#66bfbf;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:16px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #154682;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb, #2bc4ad 100%);
+	background-color:#0061a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
